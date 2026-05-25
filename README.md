@@ -10,6 +10,6 @@ From a machine learning standpoint, I applied models that I was familiar with as
 2. Application of the Binomial Distribution to visualise and understand churn distributions against different sample groups and the probability of $n$ customers churning within those groups.
 3. Showing and understanding Simpson's Paradox in a $\chi^2$ (Chi-Squared) contingency table.
 
-4. ## Next Steps
-5. 1. Move to learning and applying Poisson, Exponential & Negative Binomial Distributions.
+## Next Steps
+5. Move to learning and applying Poisson, Exponential & Negative Binomial Distributions.
    
