@@ -11,5 +11,5 @@ From a machine learning standpoint, I applied models that I was familiar with as
 3. Showing and understanding Simpson's Paradox in a $\chi^2$ (Chi-Squared) contingency table.
 
 ## Next Steps
-5. Move to learning and applying Poisson, Exponential & Negative Binomial Distributions.
+1. Move to learning and applying Poisson, Exponential & Negative Binomial Distributions.
    
