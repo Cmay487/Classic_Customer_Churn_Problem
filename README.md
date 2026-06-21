@@ -31,3 +31,11 @@ Fiber Optic customers have the highest risk of churning as, by applying a Binomi
 When I delved deeper into Fiber Optic customers to understand the "why", the answer was simple — the churned customers typically had no or a small amount of add-ons of the wrong variety (such as Streaming Films and TV). This means that these add-ons appeared to be a strong predictive feature for Fiber Optic customer churn depending on what add-ons they purchased.
 
 The total active customers at risk of churning are 208, where their lifetime value equates to £332,002 and a monthly income of £16,476.55, which is 13.84% of their active Fiber Optic customer base.
+
+**For Telco to reduce their customer churn, they should do the following:**
+
+For the Fiber Optic customers without Online Security, they should be offered this service at a discounted price to entice them.
+
+Online Security should be prioritised as an upsell add-on for new Fiber Optic customers.
+
+Streaming Services should be upsold only if the customer has signed up to Online Security, Tech Support and Online Backup.
