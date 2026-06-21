@@ -7,9 +7,11 @@ Telco is experiencing a customer churn rate of 26.54%. This project identifies t
 **Statistical methods:** 
 
 Confidence intervals · Binomial Distribution · Chi-Squared testing · Simpson's Paradox analysis
+
 **ML pipeline:** 
 
 Feature engineering · CatBoost classifier · RFE feature selection · Stratified cross-validation (class imbalance present) · Hyperparameter tuning
+
 **Model performance:** 
 
 77% accuracy · 72% precision · 56% recall (churn class) · 0.73 macro F1
