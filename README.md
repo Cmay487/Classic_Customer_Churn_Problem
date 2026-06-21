@@ -15,8 +15,8 @@ Feature engineering · CatBoost classifier · RFE feature selection · Stratifie
 **Model performance:** 
 
 77% accuracy · 72% precision · 56% recall (churn class) · 0.73 macro F1
-The final model was "overly-cautious" in identifying due to high number of predicted churned customers, when they were not. However, this solution is the better version if the opposite was true - unable to accurately predict customer churn.
 
+While the model misses some at-risk of churn customers due to its 56% Recall, it does a good job at identifying genuinely high-risk customers enabling the business to avoid false alarms (Precision). However, this model requires further exploration to better the end result. 
 
 ## Summary of Findings
 
@@ -39,3 +39,15 @@ For the Fiber Optic customers without Online Security, they should be offered th
 Online Security should be prioritised as an upsell add-on for new Fiber Optic customers.
 
 Streaming Services should be upsold only if the customer has signed up to Online Security, Tech Support and Online Backup.
+
+## Future Work
+
+Further feature engineering surrounding phone service and customer profiles - Is there further information to engineer signal for the ML model?
+
+Further feature engineering and exploration of contract type.
+
+Analyse the Machine Learning models using ROC-AUC for deeper analysis.
+
+Experiment with the use of ensemble methods to combine the experimented models to capture a grouped prediction.
+
+
